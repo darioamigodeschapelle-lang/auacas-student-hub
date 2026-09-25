@@ -1,16 +1,17 @@
 {
-  "lastUpdated": "2026-09-24",
+  "lastUpdated": "2026-09-25",
   "announcements": [
     {
       "title": "First week of the AUACAS Student Hub ✌️",
-      "message": "I dont know why my code is not working😭.",
+      "message": "I don't know why my code is not working 😭.",
       "published": "2026-09-24"
     }
   ],
-  "exams": [],
-  "title": "Chemistry Exam",
+  "exams": [
+    {
+      "title": "Chemistry Exam",
       "course": "Chemistry",
-      "date": "2026-10-22:00:00",
+      "date": "2026-10-22",
       "location": "Room #3"
     }
   ],
