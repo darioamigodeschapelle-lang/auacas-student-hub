@@ -8,12 +8,11 @@
     }
   ],
   "exams": [],
-  "events": [],
+  "title": "Chemistry Exam",
+      "course": "Chemistry",
+      "date": "2026-10-22:00:00",
+      "location": "Room #3"
+    }
+  ],
+  "events": []
 }
-  "title":"Chemistry 1 exam",
-  "course":"Chemistry 1",
-  "date":"2026-10-2:00:00",
-  "location":"Room 3",
-}
-]
-
