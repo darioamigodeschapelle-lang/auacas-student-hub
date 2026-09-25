@@ -1,5 +1,12 @@
 {
-  "title": "Gabbby's Birthday",
-  "message": "67.",
-  "published": "2026-09-24"
+  "lastUpdated": "2026-09-24",
+  "announcements": [
+    {
+      "title": "Pre-Med 1 announcement",
+      "message": "Write the approved announcement here.",
+      "published": "2026-09-24"
+    }
+  ],
+  "events": [],
+  "resources": []
 }
