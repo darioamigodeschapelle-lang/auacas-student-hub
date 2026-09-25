@@ -1,6 +1,12 @@
 {
   "lastUpdated": "2026-09-24",
-  "announcements": "First week of AUACAS Student Hub",
-  "events": "None",
+  "announcements": [
+    {
+      "title": "First week of AUACAS Student Hub",
+      "message": "Now the code is working👍🏻.",
+      "published": "2026-09-24"
+    }
+  ],
+  "events": [],
   "resources": []
 }
