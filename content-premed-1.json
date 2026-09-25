@@ -1,11 +1,5 @@
-lastUpdated": "2026-09-24",
-  "announcements": [
-    {
-      "title": "First week 67✌️",
-      "message": "Welcome to the first week of the AUACAS Student Hub.",
-      "published": "2026-09-24"
-    }
-  ],
-  "exams": [],
-  "events": []
+{
+  "title": "Announcement title",
+  "message": "Announcement details.",
+  "published": "2026-09-24"
 }
