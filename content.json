@@ -15,5 +15,10 @@
       "location": "Room #3"
     }
   ],
-  "events": []
-}
+   "exams": [
+    {
+      "title": "Biology 1 Exam",
+      "course": "Biology",
+      "date": "2026-10-7",
+      "location": "Room #3"
+    }
