@@ -11,6 +11,15 @@
     {
       "title": "Chemistry Exam",
       "course": "Chemistry",
-      "date": "2026-10-2",
+      "date": "2026-10-02",
       "location": "Room #3"
+    },
+    {
+      "title": "Biology I Exam",
+      "course": "Biology I",
+      "date": "2026-10-07",
+      "location": "To be confirmed"
     }
+  ],
+  "events": []
+}
